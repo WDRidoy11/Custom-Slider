@@ -1,0 +1,4 @@
+appendChild--------------Done
+insertBefore--------------Done
+createElement
+createTextNode

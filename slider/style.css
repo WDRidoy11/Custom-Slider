@@ -1,0 +1,18 @@
+body {
+    background: #ddd;
+    color: #000;
+}
+
+.BTN {
+    background: #fff;
+    color: #000;
+    font-size: 18px;
+    padding: 10px 63px;
+    border-radius: 50px;
+    border: 1px solid #fff;
+    margin: 10px 0px 10px 10px;
+}
+
+img {
+    max-width: 100%;
+}
